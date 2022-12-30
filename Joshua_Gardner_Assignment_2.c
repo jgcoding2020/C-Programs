@@ -1,6 +1,6 @@
 /*Purpose: Writing functions that utilize user input values
 to display messages and calculated results
-Author: Joshua Gardner z15117842
+Author: Joshua Gardner
 Assignment: Assignment 2
 Date: 07/03/2020 */
 
