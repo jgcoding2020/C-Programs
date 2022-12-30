@@ -1,2 +1,2 @@
 # Introduction-To-Programming-In-C
-I wrote these programs in the summer of 2020 while taking the course Introduction to Programming ln C. The assignment dates are commented within each file. These programs were the first I had written in a procedural programming language.
+I wrote these programs in the summer of 2020 while taking a course focusing on the C language. The dates are commented within each file. These programs were the first programs I had written in a procedural programming language.
