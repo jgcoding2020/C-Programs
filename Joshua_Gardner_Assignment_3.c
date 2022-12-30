@@ -1,6 +1,5 @@
-/* COP2220 001 10675
-Purpose: Creating void functions with loops, conditional statements, and arrays
-Author: Joshua Gardner z15117842
+/*Purpose: Creating void functions with loops, conditional statements, and arrays
+Author: Joshua Gardner
 Assignment: Assignment 3
 Date: 07/18/2020 */
 
