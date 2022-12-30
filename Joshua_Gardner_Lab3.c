@@ -1,6 +1,5 @@
-/* COP2220 001 10675
-OBJECTIVE: Conditional statements and use of if/if else control structures.
-Author: Joshua Gardner z15117842
+/*OBJECTIVE: Conditional statements and use of if/if else control structures.
+Author: Joshua Gardner
 Assignment: Lab3
 Date: 06/20/2020 */
 
