@@ -1,8 +1,6 @@
-/*
-Student: Joshua Gardner Z15117842
+/*Author: Joshua Gardner
 Lab 4: Use of functions along with for loops, while loops, and arrays
-Date: 7/11/2020
-*/
+Date: 7/11/2020*/
 
 #include <stdio.h>
 #include <stdlib.h>
