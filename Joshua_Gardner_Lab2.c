@@ -1,6 +1,5 @@
-/* COP2220 001 10675
-OBJECTIVE: Writing functions with input/output arguments as well as void functions.
-Author: Joshua Gardner z15117842
+/*OBJECTIVE: Writing functions with input/output arguments as well as void functions.
+Author: Joshua Gardner
 Assignment: Lab2
 Date: 06/13/2020 */
 
