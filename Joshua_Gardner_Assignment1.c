@@ -1,5 +1,5 @@
 /*Purpose: comprehension of print function, performing calculations, and use of scanf
-Author: Joshua Gardner z15117842
+Author: Joshua Gardner
 Assignment: Assignment 1
 Date: 06/01/2020 */
 
