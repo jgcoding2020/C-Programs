@@ -1,6 +1,5 @@
-/* COP2220 001 10675
-Purpose: Use of functions, pointers, arrays, loops, etc
-Author: Joshua Gardner z15117842
+/*Purpose: Use of functions, pointers, arrays, loops, etc
+Author: Joshua Gardner
 Assignment: Assignment 4
 Date: 07/2/2020 */
 
