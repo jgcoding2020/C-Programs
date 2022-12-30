@@ -1,5 +1,4 @@
-/* COP2220 001 10675
-Purpose: Writing functions that utilize user input values
+/*Purpose: Writing functions that utilize user input values
 to display messages and calculated results
 Author: Joshua Gardner z15117842
 Assignment: Assignment 2
