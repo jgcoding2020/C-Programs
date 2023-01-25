@@ -1,3 +1,3 @@
 # C programs 
 
-I wrote these programs while learning C in summer 2020.
+I wrote these programs while learning the procedural language C in summer 2020.
